@@ -40,3 +40,6 @@ ANOVA
 4 = Incapacitating Injury, 
 5 = Fatal (Within 30 Days) Injury, 
 6 = Non-Traffic Fatality
+
+Link to the data: 
+https://raw.githubusercontent.com/cam-alvarez/Personal-Portfolio-and-Blog/main/public/2020-tristatecounty-crashdata.csv
